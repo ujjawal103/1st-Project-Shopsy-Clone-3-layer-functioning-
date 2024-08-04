@@ -1,0 +1,7 @@
+.type a{
+    color: black;
+    text-decoration-line: none;
+}
+.type  :hover{
+    color: rgb(12, 12, 233);
+}
